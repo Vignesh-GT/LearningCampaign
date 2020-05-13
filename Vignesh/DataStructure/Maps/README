@@ -1,1 +1,16 @@
+http://alvinalexander.com/scala/scala-maps-map-class-examples/
 
+1. Immutable Map class
+2. Mutable Map class
+3. Adding, removing, and updating mutable Map elements
+4. Iterating over Scala maps
+
+https://www.geeksforgeeks.org/scala-map/
+
+1. Accessing Values Using Keys
+2. Updating immutable Map
+3. Updating mutable Map
+4. Adding new key-value pair
+5. Deleting a key-value pair:
+6. Iteration in a Map
+7. Empty Map
