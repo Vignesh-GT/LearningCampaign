@@ -1,1 +1,13 @@
 
+https://alvinalexander.com/scala/scala-tuple-examples-syntax/
+https://www.geeksforgeeks.org/scala-tuple/
+https://www.james-willett.com/scala-tuples-maps/
+
+Declarnig a Tuple
+Accessing Tuple elements
+Use variable names to access tuple elements
+Pattern matching on tuples 
+Iterating over a tuple
+Converting tuple to string
+Swap the elements of tuple
+Putting Tuples into a Map
