@@ -1,1 +1,23 @@
+http://allaboutscala.com/tutorials/chapter-7-beginner-tutorial-using-scala-mutable-collection/scala-tutorial-learn-use-mutable-set/
+https://docs.scala-lang.org/overviews/collections/sets.html
+https://data-flair.training/blogs/scala-sets/
+https://data-flair.training/blogs/scala-sets/
 
+Mutabale Sets
+Immutable Sets
+Operations in sets
+Concatenating sets
+Max and min in sets
+Finding values common to two sets
+Method to call on set
+initialize a Set with 3 elements
+check specific elements in Set
+add elements to Set using +=
+add all elements from another Set using ++=
+remove element from Set using -=
+find the intersection between two Sets using &
+find the difference between two Sets using &~
+initialize an empty Set
+Sorted Sets
+Bitsets
+Illustrate the use of Immutable and mutable sets
