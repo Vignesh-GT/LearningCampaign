@@ -1,1 +1,29 @@
+References
+https://www.tutorialspoint.com/scala/scala_lists.htm
+https://www.datacamp.com/community/tutorials/scala-lists
+https://www.scala-lang.org/api/current/scala/collection/immutable/List.html
+https://www.geeksforgeeks.org/scala-lists/
+https://www.geeksforgeeks.org/how-to-merge-lists-in-scala/?ref=rp
 
+1. Lists in Scala
+2. Scala List vs. Scala Array
+3. Basic Operations on Lists
+4. Scala List Methods
+	1. head
+	2. tail
+	3. isEmpty
+	4. fill()
+	5. reverse
+	6. concat()
+	7. tabulate()
+	
+5. How to create a uniform list in Scala/Creating Uniform Lists
+6. Reversing List Order in Scala/Reverse List Order
+7. How to merge lists in Scala/Concatenating Lists
+	a. By using ++ method
+	b. By using :::
+	c. By using concat method
+	
+8. Tabulating a Function	
+9. Arithmetic Operation on Lists
+10. Scala List Methods
