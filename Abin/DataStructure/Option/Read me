@@ -1,9 +1,12 @@
+References
 https://www.geeksforgeeks.org/scala-option/
 https://www.journaldev.com/8082/scala-option-and-iterators-example
+https://data-flair.training/blogs/scala-option/
 
-Scala Option
-getOrElse() Method
-isEmpty() Method
+1. Scala Option
+2. getOrElse() Method
+3. isEmpty() Method
 
-Different way to take optional values
-Using Pattern Matching 
+4. Different way to take optional values
+5. Using Pattern Matching 
+6. Methods to Call on an Option in Scala
