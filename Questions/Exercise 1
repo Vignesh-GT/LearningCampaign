@@ -1,0 +1,5 @@
+1.	Given a list, find items that are duplicates.
+2.	Given a list that may contain duplicates, remove the duplicates and return a Set.
+3.	Write isBlank(String) method, that returns a boolean.  Return true if the string is null or is empty string or contains just spaces.
+4.	Write propertiesString(Map[String, String]) method, that returns a string. Concat every item in the map as k:v; Ensure there are no leading or trailing semicolon in the final string.
+5.	Given the following ADT:  case class TablesChecks(tableName: String, check: Check), write a method convert(tablesChecks: Seq[TablesChecks]) that returns TableChecks ADT type as shown below:  case class TableChecks(tableName: String, checks: Seq[Check])
